@@ -6,5 +6,6 @@
 !Lib/site-packages/QtDesigner/srraui.py
 !Lib/site-packages/QtDesigner/srra.ui
 !requirements.txt
+!README.md
 # ...even if they are in subdirectories
 !*/
