@@ -7,3 +7,6 @@
 !README.md
 # ...even if they are in subdirectories
 !*/
+ 
+Lib/site-packages/QtDesigner/src/config.ini
+
