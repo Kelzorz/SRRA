@@ -1,6 +1,6 @@
 
 ### SRRA
-A personal project do display statistics that are not typically displayed in Starcraft: Remastered.
+A personal project to display statistics that are not typically displayed in Starcraft: Remastered.
 It displays statistics relevant to your personal comepetitive matches such as: APM/EAPM/WIN%/Win% Per Match-Up
 It also graphs your apm/game.
 
