@@ -6,6 +6,9 @@
 !Lib/site-packages/QtDesigner/srraui.py
 !Lib/site-packages/QtDesigner/srra.ui
 !Lib/site-packages/QtDesigner/players.py
+!Lib/site-packages/QtDesigner/matches.py
+!Lib/site-packages/QtDesigner/statistics.py
+!Lib/site-packages/QtDesigner/replay.py
 !requirements.txt
 !README.md
 # ...even if they are in subdirectories
