@@ -5,6 +5,7 @@
 !Lib/site-packages/QtDesigner/SRRA.py
 !Lib/site-packages/QtDesigner/srraui.py
 !Lib/site-packages/QtDesigner/srra.ui
+!Lib/site-packages/QtDesigner/players.py
 !requirements.txt
 !README.md
 # ...even if they are in subdirectories
