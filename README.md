@@ -40,6 +40,6 @@ YOUR_LADDER_NAMES = ["guy_in_the_chat", "guy_in_the_chat2"]
 
 ### Limitations
 ---
-This project is desgined to work only for 1v1 ladder matches, most of the reasoning is due to the fact
-personal ladder match statistics are missing from Starcraft: Remastered.
+This project is desgined to work only for 1v1 ladder matches.
+This is due to the fact that personal ladder match statistics are missing from Starcraft: Remastered.
 Some statistics exist but are poorly implemented.
